@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snowlevel
+- 👋 Hi, I’m @Snowlevel
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning programming
 
